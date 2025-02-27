@@ -13,7 +13,7 @@ Gympass style app.
 - [ ] Deve ser possível o utilizador pesquisar ginásios pelo nome;
 - [x] Deve ser possível o utilizador realizar o check-in em um ginásio;
 - [ ] Deve ser possível validar o check-in do utilizador;
-- [ ] Deve ser possível registar um ginásio;
+- [x] Deve ser possível registar um ginásio;
 
 ## RNs (Regras de negócio)
 
@@ -22,7 +22,7 @@ Gympass style app.
 - [x] O utilizador não pode fazer check-in se não estiver perto (100m) de um ginásio;
 - [ ] O check-in só pode ser validado até 20 minutos após criado;
 - [ ] O check-in só pode ser validado por administradores;
-- [ ] O ginásio só pode ser registado por utilizador;
+- [ ] O ginásio só pode ser registado por administradores;
 
 ## RNFs (Requisitos não-funcionais)
 
