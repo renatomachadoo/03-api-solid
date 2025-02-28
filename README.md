@@ -29,4 +29,4 @@ Gympass style app.
 - [x] A palavra-passe do utilizador precisa estar criptografada;
 - [x] Os dados da aplicação precisam estar persistidos em uma base de dados PostgreSQL;
 - [x] Todas as listas de dados precisam estar paginadas com 20 itens por página;
-- [ ] O utilizador deve ser identificado por um JWT (JSON Web Token);
+- [x] O utilizador deve ser identificado por um JWT (JSON Web Token);
