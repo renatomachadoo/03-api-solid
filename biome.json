@@ -39,7 +39,8 @@
   "files": {
     "ignore": [
       "node_modules",
-      "build"
+      "build",
+      "@types"
     ]
   }
 }
