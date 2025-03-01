@@ -22,7 +22,7 @@ Gympass style app.
 - [x] O utilizador não pode fazer check-in se não estiver perto (100m) de um ginásio;
 - [x] O check-in só pode ser validado até 20 minutos após criado;
 - [ ] O check-in só pode ser validado por administradores;
-- [ ] O ginásio só pode ser registado por administradores;
+- [x] O ginásio só pode ser registado por administradores;
 
 ## RNFs (Requisitos não-funcionais)
 
